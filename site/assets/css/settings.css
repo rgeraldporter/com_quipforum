@@ -1,0 +1,41 @@
+textarea.qforum-settings-prefix {
+	width:  400px;
+	height: 75px;
+	font-size: 85%;
+	font-family: monospace;
+}
+
+textarea.qforum-settings-suffix {
+	width:  400px;
+	height: 75px;
+	font-size: 85%;
+	font-family: monospace;
+}
+
+textarea.qforum-settings-template {
+	width:  400px;
+	height: 75px;
+	font-size: 85%;
+	font-family: monospace;
+}
+
+input.qforum-settings-user-ignore {
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/cut_red.png);
+	background-position: 3px 3px;	
+	padding-left: 24px;
+}
+
+input.qforum-settings-user-icon {
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/status_offline.png);
+	background-position: 3px 3px;	
+	padding-left: 24px;
+}
+
+input.qforum-settings-user-colour {
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/color_wheel.png);
+	background-position: 3px 3px;	
+	padding-left: 24px;
+}

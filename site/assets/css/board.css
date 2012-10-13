@@ -1,0 +1,128 @@
+ul#qforum-threads li.qforum-thread-parent {
+	margin-left:  15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-bottom: 1px solid #ddd;
+}
+
+ul#qforum-threads li ul {
+	margin: 0;
+	padding: 0;
+}
+
+ul#qforum-threads li ul li{
+	margin-left: 35px;
+}
+
+li.qforum-thread-sticky {
+	background-color: #ee9;
+	padding: 3px;
+	border: 1px solid #dd8;
+}
+
+span.qforum-thread-sticky-label {
+	font-weight: bold;
+}
+
+li.qforum-thread-announcement {
+	background-color: #fd9;
+	padding: 3px;
+	border: 1px solid #dd8;
+}
+
+span.qforum-thread-announcement-label {
+	font-weight: bold;
+}
+
+
+div.qforum-collapse-img img {
+	margin-top: 2px;
+	padding-right: 3px;
+	float: left;
+}
+
+div.qforum-subject-bullet img {
+	margin-top: 6px;
+	padding-right: 7px;
+	padding-left: 4px;
+	float: left;
+}
+
+span.qforum-posted-by {
+	font-style: italic;
+	font-size: 88%;
+}
+
+span.qforum-post-author {
+	font-weight:  bold;
+}
+
+span.qforum-post-date {
+	font-size: 77%;
+	font-style: italic;
+}
+
+span.qforum-no-text {
+	font-size: 77%;
+	margin-left: 10px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+
+a.qforum-board-subject {
+	text-decoration: none;
+	color:  #004070;
+}
+
+a.qforum-board-subject:visited {
+	text-decoration: none;
+	color:  #7080A0;
+}
+
+span.qforum-board-subject-no-text {
+	text-decoration: none;
+	color:  #7080A0;
+}
+
+a.qforum-board-subject-reply {
+	color: #004070;
+	font-size: 77%;
+	text-decoration: none;
+	vertical-align: top;
+}
+
+a.qforum-post-external-link {
+	background-color: #bce;
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/link.png);
+	background-position: 0px -2px;
+	text-decoration: none;
+	font-size: 78%;
+	vertical-align: middle;
+	margin-left: 3px;
+	margin-right: 3px;
+	padding: 0px;
+	padding-left: 17px;
+	padding-right: 3px;
+	border:  1px solid #abd;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+span.qforum-emoticon img {
+	vertical-align: middle;
+}
+
+.qforum-post-new-flag {
+
+	background-color:  #ffd;
+	border: 1px solid #eeb;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 0px;
+	padding-left: 24px;
+	padding-right: 4px;
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/new.png);
+	background-position: 3px 0px;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+        <layout title="COM_QUIPFORUM_BOARD_VIEW_DEFAULT_TITLE">
+                <message>COM_QUIPFORUM_BOARD_VIEW_DEFAULT_DESC</message>
+        </layout>
+        <fields name="request"
+        		addfieldpath="/administrator/components/com_quipforum/models/fields"
+        >
+                <fieldset name="request">
+                        <field
+                                name="id"
+                                type="board"
+                                label="COM_QUIPFORUM_BOARD_FIELD_LABEL"
+                                description="COM_QUIPFORUM_BOARD_FIELD_GREETING_DESC"
+                                
+                        >
+
+                        </field>
+                </fieldset>
+        </fields>
+</metadata>

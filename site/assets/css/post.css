@@ -1,0 +1,53 @@
+input#qforum-post-subject {
+	width: 400px;
+	font-size: 110%;
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/comment.png);
+	background-position: 3px 3px;	
+	padding-left: 24px;
+}
+
+input#qforum-post-name {
+	font-size: 110%;
+	background-repeat: no-repeat;
+	background-image: url(../../icons/16x16/status_online.png);
+	background-position: 3px 3px;	
+	padding-left: 24px;
+}
+
+span.qforum-log-post-created {
+	color: #003000;
+}
+
+span.qforum-log-post-edited {
+	color: #604000;
+}
+
+span.qforum-log-report-spam {
+	color: #900000;
+	font-weight: bold;
+}
+
+span.qforum-log-off-topic {
+	color: #900000;
+}
+
+span.qforum-log-report-offensive {
+	color: #900000;
+	font-weight: bold;
+}
+
+span.qforum-log-announcement {
+	color: #e0c000;
+	font-weight: bold;
+}
+
+span.qforum-log-sticky {
+	color: #c0e000;
+	font-weight: bold;
+}
+
+span.qforum-log-clear-all {
+	color: #000090;
+	font-weight: bold;
+}
